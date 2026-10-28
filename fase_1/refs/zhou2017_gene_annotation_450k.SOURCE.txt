@@ -1,0 +1,7 @@
+Zhou W, Laird PW, Shen H (2017) Nucleic Acids Res 45(4):e22. Gene annotation based on GENCODE v36.
+Source: https://zhouserver.research.chop.edu/InfiniumAnnotation/current/HM450/HM450.hg38.manifest.gencode.v36.tsv.gz
+Reduced to six columns with `cut -f5,6,7,8,10,12`:
+  probeID, genesUniq, geneNames, transcriptTypes, distToTSS, CGIposition
+The join with the data is by probeID, so the hg38 build of this file does not affect gene symbols.
+distToTSS is negative upstream of the TSS; promoters are defined as [-1500, +500] around the TSS.
+Used by 06_dmp_dmr.R and later scripts (gene, promoter and CpG-island context).

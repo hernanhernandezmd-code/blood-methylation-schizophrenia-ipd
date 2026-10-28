@@ -1,0 +1,4 @@
+Union of the CpGs of two chronological age clocks: Horvath 2013 (Genome Biol 14:R115; 353 CpGs) and
+Hannum 2013 (Mol Cell 49:359-367; 69 CpGs), giving 416 unique CpGs.
+Generated from methylclockData (coefHorvath, coefHannum).
+Used by 06_dmp_dmr.R with EXCLUIR_CPG_EDAD = TRUE (sensitivity analysis, folder suffix _noAge).

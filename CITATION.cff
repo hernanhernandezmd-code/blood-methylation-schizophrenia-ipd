@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this repository."
+title: "Blood DNA methylation in schizophrenia: one-stage IPD mega-analysis of six cohorts (analysis code)"
+authors:
+  - family-names: "Hernández Hincapié"
+    given-names: "Hernán Guillermo"
+    affiliation: "Universidad Santo Tomás, Bucaramanga, Colombia"
+license: MIT
+repository-code: "https://github.com/hernanhernandezmd-code/blood-methylation-schizophrenia-ipd"
+identifiers:
+  - type: doi
+    value: "10.17605/OSF.IO/2U56R"
+    description: "Pre-registration (OSF Registries 2u56r)"
+  - type: url
+    value: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE349814"
+    description: "Processed data (GEO)"

@@ -1,0 +1,18 @@
+# Data are produced by the pipeline and are not part of the repository
+fase_1/data_*/
+fase_1/geo_deposito_*/
+fase_1/figuras_*/
+*.rds
+*.csv.gz
+fase_1/refs/gprofiler_e114_eg62_p19/*.gmt
+fase_1/refs/gprofiler_e114_eg62_p19/*.zip
+fase_1/refs/*.xlsx
+
+# Notebooks and local files
+*.ipynb
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+*.env
+!fase_1/refs/hannon2021_elife_supplementary_file1.xlsx

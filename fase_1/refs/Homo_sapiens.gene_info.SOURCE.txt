@@ -1,0 +1,4 @@
+NCBI Gene catalogue for Homo sapiens (tax_id 9606): symbol, Entrez Gene ID, synonyms, Ensembl cross-references.
+Source: https://ftp.ncbi.nlm.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz
+Version used: 5,175,577 bytes, 193,884 genes.
+Used by 08c_enriquecimiento_gprofiler.R to map gene symbols and synonyms.

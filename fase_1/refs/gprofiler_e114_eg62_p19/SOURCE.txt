@@ -1,0 +1,10 @@
+g:Profiler gene sets, release e114_eg62_p19_27110d83 (Ensembl 114, GRCh38.p14).
+The GMT files are not redistributed here. Download and extract:
+  https://biit.cs.ut.ee/gprofiler/static/gprofiler_hsapiens.name.zip
+  sha256 of the archive used: 7561e968cf19968ab98c596c94355a808805a68bf79863e165fbf0b8d8ec0b7d
+Files read by 08c_enriquecimiento_gprofiler.R (place them in this folder):
+  hsapiens.GO:BP.name.gmt  hsapiens.GO:CC.name.gmt  hsapiens.GO:MF.name.gmt
+  hsapiens.REAC.name.gmt   hsapiens.WP.name.gmt     hsapiens.HP.name.gmt
+KEGG and TRANSFAC are not included in the archive for licensing reasons.
+The release in use can be checked at https://biit.cs.ut.ee/gprofiler/api/util/data_versions/
+(newer releases change term definitions and gene counts).

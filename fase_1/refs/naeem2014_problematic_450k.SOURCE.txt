@@ -1,0 +1,5 @@
+Naeem H, et al. (2014) Reducing the risk of false discovery enabling identification of biologically
+significant genome-wide methylation status using the HumanMethylation450 array. BMC Genomics 15:51.
+Probes flagged "discard" in Additional file 2 (column Flag(discard/keep)).
+Source: https://static-content.springer.com/esm/art%3A10.1186%2F1471-2164-15-51/MediaObjects/12864_2013_7006_MOESM2_ESM.csv
+Used by 02_descarga_qc.R only under the P1 masking variant (not part of the primary analysis).

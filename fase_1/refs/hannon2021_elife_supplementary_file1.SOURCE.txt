@@ -1,0 +1,8 @@
+Hannon E, Dempster EL, Mansell G, et al. (2021) DNA methylation meta-analysis reveals cellular alterations in
+psychosis and markers of treatment-resistant schizophrenia. eLife 10:e58430. doi:10.7554/eLife.58430
+Supplementary file 1 (Supplementary Tables 1-14), distributed under CC BY 4.0.
+Source: https://cdn.elifesciences.org/articles/58430/elife-58430-supp1-v2.xlsx
+md5 e3c9bccbcc569903d093c5e85937e3d8 (matches the value declared in PMC8009672).
+Sheets read by 010d_clozapina.R: Supplementary Table 13 (seven clozapine DMPs) and Supplementary Table 14
+(schizophrenia and treatment-resistance model over 1,048 schizophrenia DMPs; column "Significance").
+In Supplementary Table 13 the gene symbol SEPT8 appears converted to a date (cg07828169).

@@ -1,0 +1,5 @@
+Rahmani E, et al. (2017) Genome-wide methylation data mining reveals epigenetic regulation of ancestry.
+Nat Commun 8:1055 (EPISTRUCTURE, part of GLINT). CpGs correlated with ancestry-informative SNPs.
+Source: https://raw.githubusercontent.com/cozygene/glint/master/parsers/assets/epistructure_reference_sites.txt
+Used by 04b_epistructure_ancestria.R (principal components) and by 06_dmp_dmr.R with
+EXCLUIR_CPG_ANCESTRIA = TRUE (sensitivity analysis, folder suffix _noAnc).

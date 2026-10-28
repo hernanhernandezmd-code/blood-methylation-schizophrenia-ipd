@@ -1,0 +1,7 @@
+Joehanes R, et al. (2016) Epigenetic signatures of cigarette smoking. Circ Cardiovasc Genet 9(5):436-447.
+18,755 CpGs associated with current versus never smoking at FDR < 0.05 (Supplemental Table 2,
+column "Probe ID"). Former-versus-never CpGs (Supplemental Table 5) are a subset of this list.
+Source: supplementary file of PMC5267325 (NIHMS817273-supplement-001506_-_Supplemental_Tables.xlsx,
+sha256 a4e2fa3c60e9e09284be830b62c9d3480878ebdf74e45c1eec209b508df8e951).
+The xlsx is not redistributed. `010j_direccion_cpg_tabaco.R` reads it as
+fase_1/refs/joehanes2016_supplemental_tables.xlsx (sheet "02"); download it from the PMC record above.

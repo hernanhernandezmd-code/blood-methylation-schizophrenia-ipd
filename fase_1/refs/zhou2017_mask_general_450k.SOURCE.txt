@@ -1,0 +1,5 @@
+Zhou W, Laird PW, Shen H (2017) Comprehensive characterization, annotation and innovative use of
+Infinium DNA methylation BeadChip probes. Nucleic Acids Res 45(4):e22.
+Probes with MASK_general == TRUE in the HM450 hg38 manifest.
+Source: https://zhouserver.research.chop.edu/InfiniumAnnotation/current/HM450/HM450.hg38.manifest.rds
+Used by 02_descarga_qc.R (probe mask).

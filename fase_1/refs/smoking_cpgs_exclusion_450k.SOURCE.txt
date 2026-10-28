@@ -1,0 +1,4 @@
+Union of the two published smoking panels: Joehanes 2016 (18,755 CpGs) and Bollepalli 2019 (300 CpGs);
+200 CpGs are shared, giving 18,855 CpGs.
+Used by 06_dmp_dmr.R with EXCLUIR_CPG_TABACO = TRUE (main analysis, folder suffix _noSmk): these probes
+are removed before limma while the EpiSmokEr score stays in the model.
